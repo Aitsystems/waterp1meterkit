@@ -4,7 +4,7 @@
 
 substitutions:
   default_network: "Ethernet (local)"
-  firmware_manifest_url: "https://aitsystems.github.io/waterp1meterkit/waterp1meterkit-v4-ethernet-manifest.json"
+  #firmware_manifest_url: "https://aitsystems.github.io/waterp1meterkit/waterp1meterkit-v4-ethernet-manifest.json"
 
 packages:
   base: !include base.yaml
