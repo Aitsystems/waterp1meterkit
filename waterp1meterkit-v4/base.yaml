@@ -256,7 +256,7 @@ dsmr:
   uart_id: uart_dsmr
   id: dsmr_instance
   max_telegram_length: 4096
-  request_pin: GPIO10
+  #request_pin: GPIO10
   gas_mbus_id: ${gas_mbus_id}
   water_mbus_id: ${water_mbus_id}
 
